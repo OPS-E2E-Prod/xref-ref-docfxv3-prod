@@ -1,9 +1,9 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "xref-ref-prod",
+      "docset_name": "xref-ref-docfxv3-prod",
       "build_source_folder": "xref-prod",
-      "build_output_subfolder": "xref-ref-prod",
+      "build_output_subfolder": "xref-docfxv3-prod",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
@@ -33,5 +33,6 @@
     }
   ],
   "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": false,
+  "use_docfxv3": true
 }
